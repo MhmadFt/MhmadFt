@@ -7,6 +7,6 @@
 - **Boggle Game** – Interactive word game built with Python  
 - **To-Do List App** – React-based task manager to keep life organized  
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammadftemi/)  
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mohammadftemi/)  
 
 ✨ Fun fact: I love solving puzzles and building projects that make everyday life a bit easier!
